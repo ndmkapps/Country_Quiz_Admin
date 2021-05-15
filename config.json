@@ -1,1 +1,527 @@
 
+{
+  "Subjects" :
+  [
+    {
+      "icon" : "icons/physics.png",
+      "name" : "Physics"
+    },
+    {
+      "icon" : "icons/chemistry.png",
+      "name" : "Chemistry"
+    },
+    {
+      "icon" : "icons/biology.png",
+      "name" : "Biology"
+    },
+    {
+      "icon" : "icons/maths.png",
+      "name" : "Maths"
+    },
+    {
+      "icon" : "icons/ip.png",
+      "name" : "Information Practice"
+    },
+    {
+      "icon" : "icons/english.png",
+      "name" : "English"
+    }
+  ],
+
+  "Physics" :
+  [
+    {
+      "icon" : "1",
+      "name" : "Physical World and Measurement",
+      "url" : "notes/physics/p1.pdf"
+    },
+    {
+      "icon" : "2",
+      "name" : "Kinematics",
+      "url" : "notes/physics/p2.pdf"
+    },
+    {
+      "icon" : "3",
+      "name" : "Laws of Motion",
+      "url" : "notes/physics/p3.pdf"
+    },
+    {
+      "icon" : "4",
+      "name" : "Work, Power and Energy",
+      "url" : "notes/physics/p4.pdf"
+    },
+    {
+      "icon" : "5",
+      "name" : "Rotational Motion",
+      "url" : "notes/physics/p5.pdf"
+    },
+    {
+      "icon" : "6",
+      "name" : "Gravitation",
+      "url" : "notes/physics/p6.pdf"
+    },
+    {
+      "icon" : "7",
+      "name" : "Mechanical Properties of Matter",
+      "url" : "notes/physics/p7.pdf"
+    },
+    {
+      "icon" : "8",
+      "name" : "Heat and Thermodynamics",
+      "url" : "notes/physics/p8.pdf"
+    },
+    {
+      "icon" : "9",
+      "name" : "Kinetic Theory of Gases",
+      "url" : "notes/physics/p9.pdf"
+    },
+    {
+      "icon" : "10",
+      "name" : "Oscillations and Waves",
+      "url" : "notes/physics/p10.pdf"
+    }
+  ],
+
+  "Chemistry" :
+  [
+    {
+      "icon" : "1",
+      "name" : "Some Basic Concept of Chemistry",
+      "url" : "notes/chemistry/c1.pdf"
+    },
+    {
+      "icon" : "2",
+      "name" : "Structure of Atom",
+      "url" : "notes/chemistry/c2.pdf"
+    },
+    {
+      "icon" : "3",
+      "name" : "Periodic Classification of Elements",
+      "url" : "notes/chemistry/c3.pdf"
+    },
+    {
+      "icon" : "4",
+      "name" : "Chemical Bonding and Molecular Theory",
+      "url" : "notes/chemistry/c4.pdf"
+    },
+    {
+      "icon" : "5",
+      "name" : "States of Matter",
+      "url" : "notes/chemistry/c5.pdf"
+    },
+    {
+      "icon" : "6",
+      "name" : "Thermodynamics",
+      "url" : "notes/chemistry/c6.pdf"
+    },
+    {
+      "icon" : "7",
+      "name" : "Equilibrium",
+      "url" : "notes/chemistry/c7.pdf"
+    },
+    {
+      "icon" : "8",
+      "name" : "Redox Reaction",
+      "url" : "notes/chemistry/c8.pdf"
+    },
+    {
+      "icon" : "9",
+      "name" : "Hydrogen",
+      "url" : "notes/chemistry/c9.pdf"
+    },
+    {
+      "icon" : "10",
+      "name" : "S Block",
+      "url" : "notes/chemistry/c10.pdf"
+    },
+    {
+      "icon" : "11",
+      "name" : "P Block",
+      "url" : "notes/chemistry/c11.pdf"
+    },
+    {
+      "icon" : "12",
+      "name" : "Organic Chemistry",
+      "url" : "notes/chemistry/c12.pdf"
+    },
+    {
+      "icon" : "13",
+      "name" : "Hydrocarbons",
+      "url" : "notes/chemistry/c13.pdf"
+    },
+    {
+      "icon" : "14",
+      "name" : "Environmental Chemistry",
+      "url" : "notes/chemistry/c14.pdf"
+    }
+
+  ],
+
+    "Biology":
+    [
+      {
+        "icon" : "1",
+        "name" : "The Living World",
+        "url" : "notes/biology/b1.pdf"
+      },
+      {
+        "icon" : "2",
+        "name" : "Biological Classification",
+        "url" : "notes/biology/b2.pdf"
+      },
+      {
+        "icon" : "3",
+        "name" : "Plant Kingdom",
+        "url" : "notes/biology/b3.pdf"
+      },
+      {
+        "icon" : "4",
+        "name" : "Animal Kingdom",
+        "url" : "notes/biology/b4.pdf"
+      },
+      {
+        "icon" : "5",
+        "name" : "Morphology of Flowering Plants",
+        "url" : "notes/biology/b5.pdf"
+      },
+      {
+        "icon" : "6",
+        "name" : "Anatomy of Flowering Plants",
+        "url" : "notes/biology/b6.pdf"
+      },
+      {
+        "icon" : "7",
+        "name" : "Structural Organisation in Animals",
+        "url" : "notes/biology/b7.pdf"
+      },
+      {
+        "icon" : "8",
+        "name" : "Cell: Structures and Functions",
+        "url" : "notes/biology/b8.pdf"
+      },
+      {
+        "icon" : "9",
+        "name" : "Biomolecules",
+        "url" : "notes/biology/b9.pdf"
+      },
+      {
+        "icon" : "10",
+        "name" : "Cell Cycle and Division",
+        "url" : "notes/biology/b10.pdf"
+      },
+      {
+        "icon" : "11",
+        "name" : "Transport in Plants",
+        "url" : "notes/biology/b11.pdf"
+      },
+      {
+        "icon" : "12",
+        "name" : "Mineral Nutrition",
+        "url" : "notes/biology/b12.pdf"
+      },
+      {
+        "icon" : "13",
+        "name" : "Photosynthesis in Higher Plants",
+        "url" : "notes/biology/b13.pdf"
+      },
+      {
+        "icon" : "14",
+        "name" : "Respiration in Plants",
+        "url" : "notes/biology/b14.pdf"
+      },
+      {
+        "icon" : "15",
+        "name" : "Plant Growth and Development",
+        "url" : "notes/biology/b15.pdf"
+      },
+      {
+        "icon" : "16",
+        "name" : "Digestion and Absorption",
+        "url" : "notes/biology/b16.pdf"
+      },
+      {
+        "icon" : "17",
+        "name" : "Breathing and Exchange of Gases",
+        "url" : "notes/biology/b17.pdf"
+      },
+      {
+        "icon" : "18",
+        "name" : "Body Fluid and Circulation",
+        "url" : "notes/biology/b18.pdf"
+      },
+      {
+        "icon" : "19",
+        "name" : "Excretory Product and Elimination",
+        "url" : "notes/biology/b19.pdf"
+      },
+      {
+        "icon" : "20",
+        "name" : "Locomotion and Movement",
+        "url" : "notes/biology/b20.pdf"
+      },
+      {
+        "icon" : "21",
+        "name" : "Neural Control and Coordination",
+        "url" : "notes/biology/b21.pdf"
+      },
+      {
+        "icon" : "22",
+        "name" : "Chemical Coordination and Integration",
+        "url" : "notes/biology/b22.pdf"
+      }
+    ],
+
+  "Information Practice" :
+  [
+    {
+      "icon" : "1",
+      "name" : "Number System",
+      "url" : "notes/information/ip1.pdf"
+    },
+    {
+      "icon" : "2",
+      "name" : "Logic Gates and Digital Design",
+      "url" : "notes/information/ip2.pdf"
+    },
+    {
+      "icon" : "3",
+      "name" : "Computer Fundamentals",
+      "url" : "notes/information/ip3.pdf"
+    },
+    {
+      "icon" : "4",
+      "name" : "Peripheral Devices",
+      "url" : "notes/information/ip4.pdf"
+    },
+    {
+      "icon" : "5",
+      "name" : "Software Concepts",
+      "url" : "notes/information/ip5.pdf"
+    },
+    {
+      "icon" : "6",
+      "name" : "Graphical User Interface (GUI)",
+      "url" : "notes/information/ip6.pdf"
+    },
+    {
+      "icon" : "7",
+      "name" : "Visual Basic",
+      "url" : "notes/information/ip7.pdf"
+    }
+
+  ],
+
+  "English" :
+  [
+    {
+      "icon" : "1",
+      "name" : "The Suitor and Papa",
+      "url" : "notes/english/e1.pdf"
+    },
+    {
+      "icon" : "2",
+      "name" : "The Star Ducks",
+      "url" : "notes/english/e2.pdf"
+    },
+    {
+      "icon" : "3",
+      "name" : "The Daffodils",
+      "url" : "notes/english/e3.pdf"
+    },
+    {
+      "icon" : "4",
+      "name" : "Quality",
+      "url" : "notes/english/e4.pdf"
+    },
+    {
+      "icon" : "5",
+      "name" : "Youth and the Tasks Ahead",
+      "url" : "notes/english/e5.pdf"
+    },
+    {
+      "icon" : "6",
+      "name" : "The Listeners",
+      "url" : "notes/english/e6.pdf"
+    },
+    {
+      "icon" : "7",
+      "name" : "Appa-Mam",
+      "url" : "notes/english/e7.pdf"
+    },
+    {
+      "icon" : "8",
+      "name" : "The Many and the None",
+      "url" : "notes/english/e8.pdf"
+    },
+    {
+      "icon" : "9",
+      "name" : "Where the Mind is Without Fear",
+      "url" : "notes/english/e9.pdf"
+    },
+    {
+      "icon" : "10",
+      "name" : "The Surgeon",
+      "url" : "notes/english/e10.pdf"
+    },
+    {
+      "icon" : "11",
+      "name" : "National Prejudices",
+      "url" : "notes/english/e11.pdf"
+    },
+    {
+      "icon" : "12",
+      "name" : "The Season of the Plants",
+      "url" : "notes/english/e12.pdf"
+    },
+    {
+      "icon" : "13",
+      "name" : "The Price of Flowers",
+      "url" : "notes/english/e13.pdf"
+    },
+    {
+      "icon" : "14",
+      "name" : "A Handful of Dates",
+      "url" : "notes/english/e14.pdf"
+    },
+    {
+      "icon" : "15",
+      "name" : "The Mosquito",
+      "url" : "notes/english/e15.pdf"
+    },
+    {
+      "icon" : "16",
+      "name" : "Machines and the Emotions",
+      "url" : "notes/english/e16.pdf"
+    },
+    {
+      "icon" : "17",
+      "name" : "Personal Helicon for Michael Longley",
+      "url" : "notes/english/e17.pdf"
+    },
+    {
+      "icon" : "18",
+      "name" : "The New Hangman",
+      "url" : "notes/english/e18.pdf"
+    }
+
+  ],
+
+  "Maths" :
+  [
+    {
+      "icon" : "1",
+      "name" : "Sets",
+      "url" : "notes/maths/m1.pdf"
+    },
+    {
+      "icon" : "2",
+      "name" : "Relations and Functions",
+      "url" : "notes/maths/m2.pdf"
+    },
+    {
+      "icon" : "34",
+      "name" : "Trigonometric Functions",
+      "url" : "notes/maths/m3.pdf"
+    },
+    {
+      "icon" : "4",
+      "name" : "The Principle of Mathematical Induction",
+      "url" : "notes/maths/m4.pdf"
+    },
+    {
+      "icon" : "5",
+      "name" : "Complex Numbers and Quadratic Equations",
+      "url" : "notes/maths/m5.pdf"
+    },
+    {
+      "icon" : "6",
+      "name" : "Linear Inequalities",
+      "url" : "notes/maths/m6.pdf"
+    },
+    {
+      "icon" : "7",
+      "name" : "Permutations and Combinations",
+      "url" : "notes/maths/m7.pdf"
+    },
+    {
+      "icon" : "8",
+      "name" : "Binomial Theorem",
+      "url" : "notes/maths/m8.pdf"
+    },
+    {
+      "icon" : "9",
+      "name" : "Sequences and Series",
+      "url" : "notes/maths/m9.pdf"
+    },
+    {
+      "icon" : "10",
+      "name" : "Straight Lines",
+      "url" : "notes/maths/m10.pdf"
+    },
+    {
+      "icon" : "11",
+      "name" : "Conic Sections",
+      "url" : "notes/maths/m11.pdf"
+    },
+    {
+      "icon" : "12",
+      "name" : "Introduction to Three Dimensional Geometry",
+      "url" : "notes/maths/m12.pdf"
+    },
+    {
+      "icon" : "13",
+      "name" : "Limits and Derivations",
+      "url" : "notes/maths/m13.pdf"
+    },
+    {
+      "icon" : "14",
+      "name" : "Mathematical Reasoning",
+      "url" : "notes/maths/m14.pdf"
+    },
+    {
+      "icon" : "15",
+      "name" : "Statistics",
+      "url" : "notes/maths/m15.pdf"
+    },
+    {
+      "icon" : "16",
+      "name" : "Probability",
+      "url" : "notes/maths/m16.pdf"
+    }
+  ],
+
+  "Slider" :
+  [
+    {
+      "name" : "Physics Paper",
+      "image" : "banners/physics.png",
+      "url" : "papers/phy.pdf"
+    },
+    {
+      "name" : "Chemistry Paper",
+      "image" : "banners/chemistry.png",
+      "url" : "papers/chm.pdf"
+    },
+    {
+      "name" : "Biology Paper",
+      "image" : "banners/biology.png",
+      "url" : "papers/bio.pdf"
+    },
+    {
+      "name" : "Maths Paper",
+      "image" : "banners/maths.png",
+      "url" : "papers/maths.pdf"
+    },
+    {
+      "name" : "Information Practice",
+      "image" : "banners/computer.png",
+      "url" : "papers/ip.pdf"
+    },
+    {
+      "name" : "English",
+      "image" : "banners/english.png",
+      "url" : "papers/eng.pdf"
+    }
+
+  ]
+}
